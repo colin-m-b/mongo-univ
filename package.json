@@ -1,0 +1,17 @@
+{
+  "name": "week-one-challenge",
+  "version": "0.0.0",
+  "description": "putting it together",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "consolidate": "^0.14.1",
+    "express": "^4.14.0",
+    "mongodb": "^2.2.10",
+    "nunjucks": "^2.5.2"
+  },
+  "author": "Colin Brownlie"
+}
